@@ -19,8 +19,8 @@ new Auth()
         {
           fromUsers: ["askrapidkl"],
           words: ["kesulitan", "maaf"],
-          startDate: new Date("Sun Aug 20 07:12:31 +0000 2023"), //startDate -1
-          endDate: new Date("Tue Aug 22 01:26:23 +0000 2023"), //endDate +1
+          startDate: new Date(Date.now() - 86400000),
+          endDate: new Date(),
         }
         // 10
       )
