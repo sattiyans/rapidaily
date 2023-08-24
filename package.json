@@ -5,7 +5,8 @@
   "dependencies": {
     "@babel/node": "^7.22.10",
     "dotenv": "^16.3.1",
-    "rettiwt-api": "^2.0.3"
+    "rettiwt-api": "^2.0.3",
+    "rettiwt-auth": "^1.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.22.10",
